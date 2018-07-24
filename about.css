@@ -1,0 +1,50 @@
+h1 {
+  color: purple;
+  font-family: sans-serif;
+}
+h3 {
+  margin: 1px;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.container {
+  margin: 1px;
+  padding:5px;
+}
+.comic {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.nice {
+  font-family: Arial, Helvetica, sans-serif
+}
+#yes {
+  color: red
+}
+#yess {
+  color: orange
+}
+#yesss {
+  color: olive
+}
+#yessss {
+  color: green
+}
+#yesssss {
+  color: blue
+}
+#no {
+  margin: 1px
+}
+#photo {
+  margin-left : 48%;
+}
+
+#text-body {
+  width: 75%;
+  margin-top: -200px;
+}
+#look {
+  font-family: Verdana, Geneva, sans-serif
+}
